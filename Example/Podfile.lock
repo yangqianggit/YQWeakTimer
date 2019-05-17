@@ -1,0 +1,16 @@
+PODS:
+  - YQWeakTimer (0.1.0)
+
+DEPENDENCIES:
+  - YQWeakTimer (from `../`)
+
+EXTERNAL SOURCES:
+  YQWeakTimer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YQWeakTimer: 3f6c66b658db1a8e3ae7833974cfdab83dae1b6d
+
+PODFILE CHECKSUM: 420fd9e059127519d0a26792d7879e7ea9fb97f3
+
+COCOAPODS: 1.5.3

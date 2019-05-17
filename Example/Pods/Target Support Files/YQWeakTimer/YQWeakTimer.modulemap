@@ -1,0 +1,6 @@
+framework module YQWeakTimer {
+  umbrella header "YQWeakTimer-umbrella.h"
+
+  export *
+  module * { export * }
+}
