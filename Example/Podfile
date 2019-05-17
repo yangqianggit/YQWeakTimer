@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'YQWeakTimer_Example' do
+  pod 'YQWeakTimer', :path => '../'
+
+  target 'YQWeakTimer_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
