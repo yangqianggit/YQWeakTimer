@@ -18,13 +18,13 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-  YQWeakTimer不需要主动释放
+  YQWeakTimer 不需要主动释放
   DESC
 
   s.homepage         = 'https://github.com/yangqianggit/YQWeakTimer'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'yangqiang' => 'qiangyang58@163.com' }
+  s.author           = { 'yangqiang' => 'yangqiang58@163.com' }
   s.source           = { :git => 'https://github.com/yangqianggit/YQWeakTimer.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
