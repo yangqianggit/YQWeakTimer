@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-  YQWeakTimer 不需要主动释放
+  YQWeakTimer 不需要主动释放,防止内存泄漏
   DESC
 
   s.homepage         = 'https://github.com/yangqianggit/YQWeakTimer'
