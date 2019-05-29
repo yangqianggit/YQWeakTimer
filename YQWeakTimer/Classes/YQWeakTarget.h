@@ -10,7 +10,8 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface YQWeakTarget : NSProcessInfo
+@interface YQWeakTarget : NSProxy
+
 
 + (instancetype)proxyWithTarget:(id)target;
 
